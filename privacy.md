@@ -70,5 +70,5 @@ If you have any questions, please contact: **fukusefeb-dev** (via GitHub Issues 
 アプリのアップデートに伴い、本ポリシーを更新することがあります。最新版は常にこのURLで確認できます。
 
 ### お問い合わせ
-ご不明な点は **fukusefeb-dev**（GitHub Issues: https://github.com/fukusefeb-dev/flickshortcut-legal ）までご連絡ください。
+ご不明な点は App Store内の「開発者への連絡」までご連絡ください。
 
