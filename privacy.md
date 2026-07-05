@@ -35,7 +35,7 @@ Purchases are handled entirely by Apple via StoreKit. We do not collect or store
 We may update this policy as the App evolves. The latest version will always be available at this URL.
 
 ### Contact
-If you have any questions, please contact: **fukusefeb-dev** (via GitHub Issues at https://github.com/fukusefeb-dev/flickshortcut-legal)
+If you have any questions, please contact us via "Contact Developer" in the App Store.
 
 ---
 
